@@ -1,13 +1,12 @@
 <script setup lang="ts">
 import Form from '@/components/Form.vue'
-
 </script>
 
 <template>
   <div class="container">
     <div class="wrapper">
       <h1 class="title">Производство</h1>
-      <Form/>
+      <Form />
     </div>
   </div>
 </template>
